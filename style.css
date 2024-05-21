@@ -1,8 +1,9 @@
-*{
+* {
     padding: 0;
     margin: 0;
 }
-body{
+
+body {
     height: 95hv;
     width: 95hv;
     display: flex;
@@ -11,9 +12,6 @@ body{
     flex-direction: column;
     color: #050527;
 }
-.pontuacao{
-    display: inline-flex;
-}
-h3{
-    margin-right: 40px;
-}
+.pontuacao { display: inline-flex; }
+
+h3  { margin-right: 40px; }
